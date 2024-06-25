@@ -9,5 +9,3 @@ dependencies:
 - matplotlib
 - seaborn
 - ftputil
-- re
-- json
