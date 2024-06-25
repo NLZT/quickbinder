@@ -8,3 +8,7 @@ dependencies:
 - pandas
 - matplotlib
 - seaborn
+- ftplib
+- ftputil
+- re
+- json
